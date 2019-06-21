@@ -1,0 +1,10 @@
+
+
+// Your variable overrides
+//$body-bg: #000;
+//$body-color: #111;
+
+@import "~bootstrap/scss/bootstrap";
+
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome.scss";
