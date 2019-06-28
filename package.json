@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-dll-vendor",
-  "version": "1.70.0-release-public-pkg-dll-prod",
+  "version": "1.70.2-master",
   "mountpoint": "vendor",
   "description": "Base for modules in node",
   "repository": "github.com:vicjicaman/tracker-dll-vendor.git",
